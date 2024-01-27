@@ -1,7 +1,6 @@
 # Weather-App
 **Overview**<br/>
-The Weather App is a simple web application that allows users to check the current weather conditions of a specific location. The application is built using HTML, CSS, and JavaScript, and it utilizes a weather API to fetch real-time weather data.
-<br/>
+The Weather App is a simple web application that allows users to check the current weather conditions of a specific location. The application is built using HTML, CSS, and JavaScript, and it utilizes a weather API to fetch real-time weather data.<br/>
 **Features**<br/>
 *Current Weather Display:* The app provides users with the current temperature, weather description, and other relevant information for the specified location.<br/>
 *Search Functionality:* Users can input the name of the city or location to get the latest weather updates.<br/>
